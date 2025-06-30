@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import createFakeElement from '../../src/common/create-fake-element';
 
 describe('createFakeElement', () => {

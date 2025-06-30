@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import ClipboardActionCut from '../../src/actions/cut';
 
 describe('ClipboardActionCut', () => {

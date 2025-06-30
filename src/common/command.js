@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Executes a given operation type.
  * @param {String} type

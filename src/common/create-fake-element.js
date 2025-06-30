@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Creates a fake textarea element with a value.
  * @param {String} value

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Emitter from 'tiny-emitter';
 import listen from 'good-listener';
 import ClipboardActionDefault from './actions/default';

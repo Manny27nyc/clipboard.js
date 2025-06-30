@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var webpackConfig = require('./webpack.config.js');
 
 module.exports = function (karma) {
